@@ -36,7 +36,7 @@ Transform from **"knows ML theory, no practical experience"** to **"production-r
 
 **Kaggle Rank**: [Update weekly]  
 **LeetCode Solved**: 1/50  
-**GitHub Commits**: [1]
+**GitHub Commits**: [8]
 
 ---
 

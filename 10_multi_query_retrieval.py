@@ -78,4 +78,5 @@ print("Multi-Query Retrieval Complete!")
 #     [Doc1, Doc2, Doc3, Doc4, Doc5],  ← Query 1 results
 #     [Doc2, Doc1, Doc6, Doc7, Doc3],  ← Query 2 results  
 #     [Doc8, Doc2, Doc9, Doc10, Doc11] ← Query 3 results
-# ]
+#i  #]
+
